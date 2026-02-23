@@ -1,0 +1,36 @@
+body {
+	background-color: darkgrey;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 14px;
+}
+
+.post-image {
+	width: 400px; 
+	height: 500px; 
+}
+
+.comment {
+  margin-left: 40px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.avatar{
+  vertical-align: middle;
+}
+
+.avatar {
+  width: 20px;         
+  height: 20px;        
+  border-radius: 50%;   
+  margin-right: 10px;   
+}
+
